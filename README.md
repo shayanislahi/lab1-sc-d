@@ -2,7 +2,7 @@
 public class Helloworld { 
     public static void main(String[] args) { 
            System.out.println("Hello, World!");
-           public class Hello {
+           public class Hello for {
               System.out.println("Hello, world! Sum:" + (2+3));
   }
       }
